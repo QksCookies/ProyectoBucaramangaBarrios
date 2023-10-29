@@ -1,0 +1,103 @@
+El Rosal,Colorados,2.5
+Colorados,Café Madrid,3.0
+Café Madrid,Las Hamacas,3.5
+Las Hamacas,Altos del Kennedy,4.0
+Altos del Kennedy,Kennedy,4.5
+Kennedy,Balcones del Kennedy,5.0
+Balcones del Kennedy,Los Ángeles,5.5
+Los Ángeles,Villa Helena 1 y 2,6.0
+Villa Helena 1 y 2,José María Córdoba,6.5
+José María Córdoba,Esperanza 1,7.0
+Esperanza 1,Esperanza 2,7.5
+Esperanza 2,Esperanza 3,8.0
+Esperanza 3,Lizcano 1,8.5
+Lizcano 1,Lizcano 2,9.0
+Lizcano 2,Regadero Norte,9.5
+Regadero Norte,Norte Bajo,10.0
+Norte Bajo,San Rafael,10.5
+San Rafael,El Cinal,11.0
+El Cinal,Chapinero,11.5
+Chapinero,Comuneros,12.0
+Comuneros,San Francisco,12.5
+San Francisco,Gaitán,13.0
+Gaitán,La Feria,13.5
+La Feria,Nariño,14.0
+Nariño,Nápoles,14.5
+Nápoles,Santander,15.0
+Santander,12 de octubre,15.5
+12 de octubre,Quinta Estrella,16.0
+Quinta Estrella,Alfonso López,16.5
+Alfonso López,La Joya,17.0
+La Joya,Chorreras de Don Juan,17.5
+Chorreras de Don Juan,Campo Hermoso,18.0
+Campo Hermoso,Primero de Mayo,18.5
+Primero de Mayo,La Concordia,19.0
+La Concordia,San Miguel,19.5
+San Miguel,La Salle,20.0
+La Salle,Candiles,20.5
+Candiles,Ricaurte,21.0
+Ricaurte,La Victoria,21.5
+La Victoria,Plazuela Real,22.0
+Plazuela Real,Los Naranjos,22.5
+Los Naranjos,Mirador,23.0
+Mirador,Los Almendros,23.5
+Los Almendros,Plaza Mayor,24.0
+Plaza Mayor,Ciudad Bolívar,24.5
+Ciudad Bolívar,San Gerardo,25.0
+San Gerardo,Antiguo Colombia,25.5
+Antiguo Colombia,África,26.0
+África,20 de Julio,26.5
+20 de Julio,Los Canelos,27.0
+Los Canelos,Modelo,27.5
+Modelo,Quebrada la Iglesia,28.0
+Quebrada la Iglesia,San Martin,28.5
+San Martin,Nueva Granada,29.0
+Nueva Granada,Diamante 1,29.5
+Diamante 1,La Libertad,30.0
+La Libertad,Las Casitas,30.5
+Las Casitas,Diamante 2,31.0
+Diamante 2,San Luis,31.5
+San Luis,Provenza,32.0
+Provenza,El Cristal,32.5
+El Cristal,Fontana,33.0
+Fontana,Granjas de Provenza,33.5
+Granjas de Provenza,Ciudad Venecia,34.0
+Ciudad Venecia,Villa Alicia,34.5
+Villa Alicia,Toledo Plata,35.0
+Toledo Plata,Dangond,35.5
+Dangond,El Rocío,36.0
+El Rocío,Malpaso,36.5
+Malpaso,Cabecera del Llano,37.0
+Cabecera del Llano,Sotomayor,37.5
+Sotomayor,Los Cedros,38.0
+Los Cedros,El Jardín,38.5
+El Jardín,Terrazas,39.0
+Terrazas,La Floresta,39.5
+La Floresta,Los Pinos,40.0
+Los Pinos,Las Américas,40.5
+Las Américas,El Prado,41.0
+El Prado,La Aurora,41.5
+La Aurora,Bolivar,42.0
+Bolivar,Galán,42.5
+Galán,Morroico,43.0
+Morroico,Albania,43.5
+Albania,Mira Flores,44.0
+Mira Flores,Buenos Aires,44.5
+Buenos Aires,Limoncito,45.0
+Limoncito,Los Sauces,45.5
+Los Sauces,Centro,46.0
+Centro,García Rovira,46.5
+García Rovira,Ciudadela Real de Minas,47.0
+Ciudadela Real de Minas,Macaregua,47.5
+Macaregua,La Salle,48.0
+La Salle,Lagos del Cacique,48.5
+Lagos del Cacique,El Tejar,49.0
+El Tejar,San Expedito,49.5
+San Expedito,Mutis,50.0
+Mutis,Balconcito,50.5
+Balconcito,Monterredondo,51.0
+Monterredondo,Héroes,51.5
+Héroes,Estoraques 1 y 2,52.0
+Estoraques 1 y 2,Prados del Mutis,52.5
+Prados del Mutis,Cordoncillo,53.0
+Cordoncillo,Antonia Santos,53.5
