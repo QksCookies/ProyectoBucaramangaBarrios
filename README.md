@@ -8,6 +8,8 @@ JULIANA CHÁVEZ KING ID:000500781
 
 https://docs.google.com/document/d/1Lm35n6SBx8zdgs15LATKHaLtIPa7Zw7mx_5gch-9w5g/edit?usp=sharing
 
+Barrios de Bucramanga: https://docs.google.com/document/d/1PyQMTTOL5O-JLz3Vh4_8Y3lVDHgwnnfX3Cy2lx51AGw/edit?usp=sharing
+
 # Grafos y su aplicación en la vida cotidiana
 
 Los grafos son una estructura de datos no lineal que se utiliza para representar relaciones entre objetos. Cada objeto se representa como un nodo o vértice, y las relaciones entre ellos se representan como aristas o conexiones. Los grafos se utilizan en diferentes dominios, como transporte, redes de computadoras, mapas, asignación de tareas, entre otros.
